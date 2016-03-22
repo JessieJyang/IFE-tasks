@@ -2,7 +2,7 @@
 
 [All the tasks here](http://ife.baidu.com/task/all)
 
-## 在线demo
+## demo
 
 [task01](http://jessiejyang.github.io/IFE-tasks/task01.html)  
 
