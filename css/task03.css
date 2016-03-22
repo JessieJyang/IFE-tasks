@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.wrap{
+	padding: 20px;
+	border: 1px solid #999;
+	background: #eee;
+	overflow: auto;
+	zoom: 1;
+}
+.b-left,.b-mid,.b-right{
+	padding: 20px;
+	border: 1px solid #999;
+	background: #fff;
+}
+.b-left{
+	float: left;
+	width: 200px;
+}
+.b-right{
+	float: right;
+	width: 120px;
+}
+.b-mid{
+	word-wrap: break-word;
+	margin-left: 220px;
+	margin-right: 140px;
+}
+img{
+	width: 80px;
+	height: 80px;
+}
+.b-left img{
+	vertical-align: text-top;
+	margin-right: 15px;
+}
+.im{
+	margin-bottom: 20px;
+}
